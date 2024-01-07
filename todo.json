@@ -1,0 +1,49 @@
+{
+  "todos": [
+    {
+      "todo": "Read vite Docs",
+      "completed": true,
+      "date": "Sat Jan 06 2024",
+      "id": 1
+    },
+    {
+      "todo": "Lorem ipsum dolor sit amet consectetur adipisicing elit.",
+      "completed": true,
+      "date": "Sat Jan 06 2024",
+      "id": 5
+    },
+    {
+      "todo": "shower",
+      "completed": false,
+      "user": 1,
+      "date": "Sat Jan 06 2024",
+      "id": 6
+    },
+    {
+      "todo": "sleep",
+      "completed": false,
+      "user": 1,
+      "date": "Sat Jan 06 2024",
+      "id": 7
+    },
+    {
+      "todo": "Lab continue",
+      "completed": true,
+      "date": "Sat Jan 06 2024",
+      "id": 8
+    },
+    {
+      "todo": "  Lorem asfsdha Facere nihil perferendis repellat quae reprehenderit voluptates dolores officiis corporis, laboriosam cum eum sint voluptatem, vero, aliquam magnam ut vitae quos neque animi ipsa nemo! Alias rerum, eius laborum asperiores necessitatibus id nostrum voluptatum sequi. Nostrum at modi aliquam ex accusantium praesentium?",
+      "completed": false,
+      "date": "Sat Jan 06 2024",
+      "id": 9
+    },
+    {
+      "todo": "witsarut sanongphun @KKC RMUTI",
+      "completed": false,
+      "user": 1,
+      "date": "Sat Jan 06 2024",
+      "id": 10
+    }
+  ]
+}
