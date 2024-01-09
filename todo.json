@@ -13,7 +13,7 @@
       "id": 5
     },
     {
-      "todo": "shower",
+      "todo": "use render.com",
       "completed": false,
       "user": 1,
       "date": "Sat Jan 06 2024",
@@ -33,8 +33,8 @@
       "id": 8
     },
     {
-      "todo": "  Lorem asfsdha Facere nihil perferendis repellat quae reprehenderit voluptates dolores officiis corporis, laboriosam cum eum sint voluptatem, vero, aliquam magnam ut vitae quos neque animi ipsa nemo! Alias rerum, eius laborum asperiores necessitatibus id nostrum voluptatum sequi. Nostrum at modi aliquam ex accusantium praesentium?",
-      "completed": false,
+      "todo": " use Tailwind",
+      "completed": true,
       "date": "Sat Jan 06 2024",
       "id": 9
     },
